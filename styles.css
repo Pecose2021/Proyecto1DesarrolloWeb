@@ -23,12 +23,14 @@
 }
 
 .nav-link{
+    font-size: 18px;
     text-decoration: none;
     color: #000000;
     margin-left: 2em;
 }
 
 .nav-cta{
+    font-size: 18px;
     text-decoration: none;
     color: #000000;   
 }
@@ -121,4 +123,12 @@
         margin-bottom: 30px;
     }
 
+}
+
+@media(max-width:991px){
+    .nav-cabecera{
+        text-align: center;
+    }
+
+   
 }
