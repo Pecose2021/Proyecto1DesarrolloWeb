@@ -1,0 +1,178 @@
+[
+    {
+        "id": "bicicleta-ruta-scott-aluminio",
+        "titulo": "Bicicleta Ruta Scott Aluminio",
+        "imagen": "./Imagenes/scott_ruta_aluminio.jpg",
+        "categoria": {
+            "nombre": "Bicicletas",
+            "id": "bicicletas" 
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "bicicleta-ruta-giant-aluminio",
+        "titulo": "Bicicleta Ruta Giant Aluminio",
+        "imagen": "./Imagenes/Giant_ruta_aluminio.jpg",
+        "categoria": {
+            "nombre": "Bicicletas",
+            "id": "bicicletas" 
+        },
+        "precio": 3500000
+    },
+
+    {
+        "id": "bicicleta-ruta-scott-carbono",
+        "titulo": "Bicicleta Ruta Scott Carbono",
+        "imagen": "./Imagenes/Scott_ruta_carbono.jpg",
+        "categoria": {
+            "nombre": "Bicicletas",
+            "id": "bicicletas" 
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "bicicleta-ruta-giant-carbono",
+        "titulo": "Bicicleta Ruta Giant Carbono",
+        "imagen": "./Imagenes/Giant_ruta_carbono.jpg",
+        "categoria": {
+            "nombre": "Bicicletas",
+            "id": "bicicletas" 
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "bicicleta-montaña-scott-aluminio",
+        "titulo": "Bicicleta Montaña Scott Aluminio",
+        "imagen": "./Imagenes/Scott_montaña_aluminio.jpg",
+        "categoria": {
+            "nombre": "Bicicletas",
+            "id": "bicicletas" 
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "bicicleta-montaña-giant-aluminio",
+        "titulo": "Bicicleta Montaña Giant Aluminio",
+        "imagen": "./Imagenes/Giant_montaña_aluminio.jpg",
+        "categoria": {
+            "nombre": "Bicicletas",
+            "id": "bicicletas" 
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "bicicleta-montaña-scott-carbono",
+        "titulo": "Bicicleta Montaña Scott Carbono",
+        "imagen": "./Imagenes/Scott_montaña_carbono.jpg",
+        "categoria": {
+            "nombre": "Bicicletas",
+            "id": "bicicletas" 
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "bicicleta-montaña-giant-carbono",
+        "titulo": "Bicicleta Montaña Giant Carbono",
+        "imagen": "./Imagenes/Giant_montaña_carbono.jpg",
+        "categoria": {
+            "nombre": "Bicicletas",
+            "id": "bicicletas" 
+        },
+        "precio": 1000
+    },
+
+
+    {
+        "id": "jersey",
+        "titulo": "Jersey ciclismo",
+        "imagen": "./Imagenes/jersey-ciclismo-dama.jpg",
+        "categoria": {
+            "nombre": "Ropa",
+            "id": "ropa" 
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "pantaloneta",
+        "titulo": "Pantaloneta ciclismo",
+        "imagen": "./Imagenes/Pantaloneta.jpg",
+        "categoria": {
+            "nombre": "Ropa",
+            "id": "ropa" 
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "medias",
+        "titulo": "Medias ciclismo",
+        "imagen": "./Imagenes/Medias.jpg",
+        "categoria": {
+            "nombre": "Ropa",
+            "id": "ropa" 
+        },
+       "precio": 1000
+    },
+
+    {
+        "id": "zapatillas",
+        "titulo": "Zapatillas ciclismo",
+        "imagen": "./Imagenes/Zapatillas.jpg",
+        "categoria": {
+            "nombre": "Ropa",
+            "id": "ropa" 
+        },
+        "precio": 1000
+    },
+    
+    {
+        "id": "casco",
+        "titulo": "Casco ciclismo",
+        "imagen": "./Imagenes/Casco.jpg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios" 
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "gafas",
+        "titulo": "Gafas ciclismo",
+        "imagen": "./Imagenes/Gafas.jpg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios" 
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "guantes",
+        "titulo": "Guantes ciclismo",
+        "imagen": "./Imagenes/Guantes.jpg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios" 
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "caramañola",
+        "titulo": "Caramañola",
+        "imagen": "./Imagenes/Caramañola.jpg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios" 
+        },
+        "precio": 1000
+    }
+]
