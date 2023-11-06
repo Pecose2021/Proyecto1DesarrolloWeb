@@ -6,6 +6,7 @@
     <title>Procycling Chiquinquirá</title>
     <link rel = "stylesheet" href="./styles.css" />
     <link rel = "stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
 </head>
 
 <body>
@@ -17,58 +18,54 @@
             </div>
             <div class="enlaces">
                 <a href="#" class="nav-link">Inicio</a>
-                <a href="#" class="nav-link">¿Quienes somos?</a>
-                <a href="#" class="nav-link">Contactanos</a>     
-            </div>   
-            <div class="nav-botones">
-                <button type="button" class="btn">Iniciar</button>
-                <button type="button" class="btn">Registrarse</button>
-            </div>                                  
+                <a href="#somos-procycling" class="nav-link">¿Quienes somos?</a>
+                <a href="#contacto" class="nav-link">Contactanos</a>     
+                <a href="./home.html" class="nav-boton">Iniciar</a>
+                <a href="./registro.html" class="nav-boton">Registrarse</a>
+                <a href="./home.html" ><i class="bi bi-cart" id="carrito-icono"></i></a>
+                                
+            </div>                                           
         </nav>              
     </header>
 
     <section id="central">
         <img src="Imagenes\Alejo 2023.jpeg">
     </section>
+    <section id="somos-procycling">
+        <div class="container">
+            <div class="img-container"></div>
+            <div class="texto">
+
+                <h2>Somos <span class="color-acento">Procycling</span></h2>
+                <p><br> Procycling es una empresa Chiquinquireña que ofrece productos de alta calidad a un precio asequible. Productos que van desde las bicicletas de ruta y MTB, hasta ropa para mujer, para hombre y accesorios que facilitarán la práctica del ciclismo con seguridad y satisfacción.</p>
+            </div>
+        </div>
+    </section>
 
     <footer class="final">
-        <div class="container">
-            <div class="final-fila">
-                <div class="final-enlaces">
-                    <h4>Compañia</h4>
-                    <ul>
-                        <li><a href="#">Nosotros</a></li>
-                        <li><a href="#">Nuestros servicios</a></li>
-                        <li><a href="#">Registrate</a></li>
-                    </ul>
+        <section id="contacto">
+            <div class="container">
+                <div class="final-fila">
+                    <div class="final-enlaces">
+                        <h4>Contactanos</h4>
+                        <ul>
+                            <li>Calle 9 # 6 -13</li>
+                            <li>Celular: 31255555555</li>
+                            <li>procycling@gmail.com</li>
+                        </ul>
+                    </div>
+                    <div class="final-enlaces">
+                        <h4>Siguenos</h4>
+                        <div class="social-link">
+                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#"><i class="fab fa-instagram"></i></a>
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                            <a href="#"><i class="fab fa-linkedin"></i></a>
+                        </div>                  
+                    </div>
                 </div>
-                <div class="final-enlaces">
-                    <h4>Ayuda</h4>
-                    <ul>
-                        <li><a href="#">Preguntas</a></li>
-                        <li><a href="#">Compras</a></li>
-                        <li><a href="#">Envios</a></li>
-                    </ul>
-                </div>
-                <div class="final-enlaces">
-                    <h4>Tienda</h4>
-                    <ul>
-                        <li><a href="#">Bicicletas</a></li>
-                        <li><a href="#">Hombre</a></li>
-                        <li><a href="#">Mujer</a></li>
-                    </ul>
-                </div>
-                <div class="final-enlaces">
-                    <h4>Siguenos</h4>
-                    <div class="social-link">
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#"><i class="fab fa-instagram"></i></a>
-                        <a href="#"><i class="fab fa-twitter"></i></a>
-                        <a href="#"><i class="fab fa-linkedin"></i></a>
-                    </div>                  
-                </div>
-            </div>
-        </div>        
+            </div>        
+        </section>
     </footer>
          
 </body>

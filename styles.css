@@ -5,41 +5,60 @@
     list-style: none;
 }
 
+
 .nav-logo{
     height: 250x;
     width: 250px;
     padding: 20px 50px;
+    
 }
 
 .nav-cabecera{
     background: rgb(248, 246, 246);
     height: 150px;
     align-items: center;
-    padding: 0 80px;
+    padding: 0 10px;
     overflow: hidden;
     display:grid;
-    grid-template-columns: repeat(3,max-content);
+    grid-template-columns: repeat(5,max-content);
     justify-content: space-between;  
 }
 
 .nav-link{
-    font-size: 18px;
+    font-size: 25px;
     text-decoration: none;
     color: #000000;
     margin-left: 2em;
 }
 
+.nav-boton{
+    font-size: 25px;
+    text-decoration: none;
+    color: #000000;
+    margin-left: 2em;
+}
+
+.nav-boton{
+    width: 40px;
+    background: aquamarine;
+    border-radius: 10px;
+    padding: 5px 30px;
+}
+
+#carrito-icono{
+    margin-left: 2em;
+    background: aquamarine;
+    border-radius: 10px;
+    padding: 11px 30px;
+
+}
+
+
+
 .nav-cta{
     font-size: 18px;
     text-decoration: none;
     color: #000000;   
-}
-
-.nav-botones{
-    display:flex;
-    gap: 50px;
-    justify-content:space-between; 
-
 }
 
     
@@ -56,6 +75,12 @@
     margin: 0 auto;
 }
 
+#somos-procycling .container{
+    text-align: center;
+    padding: 100px 12px;
+    font-size: 30px;
+}
+
 .final{
     background-color: #242424;
     padding: 80px 0;
@@ -67,7 +92,7 @@
 }
 
 .final-enlaces{
-    width: 25%;
+    width: 50%;
     padding: 0 15px;
 }
 
@@ -94,6 +119,11 @@
 .final-enlaces ul li a:hover{
     color: #FFFFFF;
     padding-left: 6px;
+}
+
+li {
+    color: #FFFFFF;
+    padding: 5px;
 }
 
 .social-link a{

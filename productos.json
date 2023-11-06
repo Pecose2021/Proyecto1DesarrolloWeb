@@ -7,7 +7,7 @@
             "nombre": "Bicicletas",
             "id": "bicicletas" 
         },
-        "precio": 1000
+        "precio": 3000000
     },
 
     {
@@ -29,7 +29,7 @@
             "nombre": "Bicicletas",
             "id": "bicicletas" 
         },
-        "precio": 1000
+        "precio": 1000000
     },
 
     {
@@ -40,7 +40,7 @@
             "nombre": "Bicicletas",
             "id": "bicicletas" 
         },
-        "precio": 1000
+        "precio": 11000000
     },
 
     {
@@ -51,7 +51,7 @@
             "nombre": "Bicicletas",
             "id": "bicicletas" 
         },
-        "precio": 1000
+        "precio": 500000
     },
 
     {
@@ -62,7 +62,7 @@
             "nombre": "Bicicletas",
             "id": "bicicletas" 
         },
-        "precio": 1000
+        "precio": 4000000
     },
 
     {
@@ -73,7 +73,7 @@
             "nombre": "Bicicletas",
             "id": "bicicletas" 
         },
-        "precio": 1000
+        "precio": 7000000
     },
 
     {
@@ -84,7 +84,7 @@
             "nombre": "Bicicletas",
             "id": "bicicletas" 
         },
-        "precio": 1000
+        "precio": 8000000
     },
 
 
@@ -96,7 +96,7 @@
             "nombre": "Ropa",
             "id": "ropa" 
         },
-        "precio": 1000
+        "precio": 100000
     },
 
     {
@@ -107,7 +107,7 @@
             "nombre": "Ropa",
             "id": "ropa" 
         },
-        "precio": 1000
+        "precio": 70000
     },
 
     {
@@ -118,7 +118,7 @@
             "nombre": "Ropa",
             "id": "ropa" 
         },
-       "precio": 1000
+       "precio": 15000
     },
 
     {
@@ -129,7 +129,7 @@
             "nombre": "Ropa",
             "id": "ropa" 
         },
-        "precio": 1000
+        "precio": 220000
     },
     
     {
@@ -140,7 +140,7 @@
             "nombre": "Accesorios",
             "id": "accesorios" 
         },
-        "precio": 1000
+        "precio": 300000
     },
 
     {
@@ -151,7 +151,7 @@
             "nombre": "Accesorios",
             "id": "accesorios" 
         },
-        "precio": 1000
+        "precio": 120000
     },
 
     {
@@ -162,7 +162,7 @@
             "nombre": "Accesorios",
             "id": "accesorios" 
         },
-        "precio": 1000
+        "precio": 30000
     },
 
     {
@@ -173,6 +173,6 @@
             "nombre": "Accesorios",
             "id": "accesorios" 
         },
-        "precio": 1000
+        "precio": 10000
     }
 ]
